@@ -5,3 +5,4 @@ Processes the Instagram Data Dump and displays in terminal the longest conversat
 Download and extract the Instagram Data from your profile: https://www.instagram.com/download/request/
 
 Python
+beautifulsoup
